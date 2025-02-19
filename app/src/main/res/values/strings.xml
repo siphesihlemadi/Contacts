@@ -1,4 +1,49 @@
 <resources>
     <string name="app_name">ContactsApplication</string>
     <string name="contactHeading">Contacts</string>
+    <string-array name="contact_names">
+        <item>Sihle</item>
+        <item>Mbali</item>
+        <item>Andre</item>
+        <item>Jabu</item>
+        <item>Ntokozo</item>
+        <item>Naadirah</item>
+        <item>Sabelo</item>
+        <item>Lesego</item>
+        <item>Themba</item>
+        <item>Xolani</item>
+        <item>Sne</item>
+        <item>Lebo</item>
+        <item>Sizakele</item>
+        <item>Sino</item>
+        <item>Katego</item>
+        <item>Izzy</item>
+        <item>Mpho</item>
+        <item>Zakhele</item>
+        <item>Zinhle</item>
+        <item>Buhle</item>
+        <item>Lindo</item>
+    </string-array>
+    <string-array name="phone_numbers">
+        <item>083 756 2157</item>
+        <item>073 456 2132</item>
+        <item>061 000 1233</item>
+        <item>081 357 0119</item>
+        <item>089 211 1101</item>
+        <item>083 121 1122</item>
+        <item>063 223 2020</item>
+        <item>079 990 1100</item>
+        <item>081 123 4120</item>
+        <item>073 895 6231</item>
+        <item>063 963 7410</item>
+        <item>081 555 2221</item>
+        <item>083 987 4512</item>
+        <item>083 258 1478</item>
+        <item>072 159 3571</item>
+        <item>081 951 7530</item>
+        <item>072 854 9652</item>
+        <item>083 963 2587</item>
+        <item>083 789 6598</item>
+        <item>081 968 3652</item>
+    </string-array>
 </resources>
